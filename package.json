@@ -1,33 +1,21 @@
 {
-    "name": "dark-red-theme",
-    "displayName": "Dark-Red-Theme",
-    "description": "Theme for visual studio code, is a theme with a combination of red and black colors, I hope you like it, if you have any suggestions I will be attentive to release a new version.",
-    "version": "1.0.0",
-    "publisher": "Dark-Red-Theme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Dilson24/Dark-Red-Theme"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "red theme",
-        "code theme",
-        "dark red theme"
-    ],
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark-Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark-Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "Dark-Red-Theme",
+  "displayName": "Dark Red Theme",
+  "description": "Dark red theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Red Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Red Theme-color-theme.json"
+      }
+    ]
+  }
 }
