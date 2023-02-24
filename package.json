@@ -3,6 +3,18 @@
   "displayName": "Dark Red Theme",
   "description": "Dark red theme!",
   "version": "0.0.1",
+  "publisher": "Dark-Red-Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dilson24/Dark-Red-Theme"
+},
+"keywords": [
+    "theme",
+    "dark theme",
+    "red theme",
+    "code theme",
+    "dark red theme"
+],
   "engines": {
     "vscode": "^1.75.0"
   },
