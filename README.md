@@ -11,9 +11,10 @@ Make Visual Studio Code look like Dark and Intimidating.
 
 A themes inspired by the colors red and black, ideal for those who enjoy customizing their applications with dark themes.
 ## Screenshots
-![View](https://github.com/Dilson24/Dark-Red-Theme/blob/main/image/vista1.JPG )
-![View](https://github.com/Dilson24/Dark-Red-Theme/blob/main/image/vista2.JPG )
-![View](https://github.com/Dilson24/Dark-Red-Theme/blob/main/image/vista3.JPG )
+### Default
+![View One](image/vista1.JPG "View One")
+![View Two](image/vista2.JPG "View Two")
+![View Three](image/vista3.JPG "View Three")
 
 # Tips
 You can try the fonts you have installed on your computer to give a touch more customization to your Visual Studio Code and together with this theme it will look great! 
