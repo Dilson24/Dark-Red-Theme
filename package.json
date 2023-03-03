@@ -2,7 +2,7 @@
   "name": "Red-Dark-Theme",
   "displayName": "Red Dark Theme",
   "description": "Theme for visual studio code, is a theme with a combination of red and black colors, I hope you like it, if you have any suggestions I will be attentive to release a new version.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "Dark-Red-Theme",
   "engines": {
     "vscode": "^1.75.0"
