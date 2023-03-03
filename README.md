@@ -4,6 +4,7 @@
 
 # Support
 'Dark-Red-Theme' is an open source extension created for Visual Studio Code. While being free and open source, if you find it useful, please consider supporting it.
+
 ![](https://img.shields.io/github/stars/Dilson24/Dark-Red-Theme?style=social) ![](https://img.shields.io/visual-studio-marketplace/i/Dark-Red-Theme.Red-Dark-Theme?style=plastic)
 # Dark Red Theme
 Make Visual Studio Code look like Dark and Intimidating.
