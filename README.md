@@ -1,4 +1,4 @@
-! [](https://github.com/Dilson24/Dark-Red-Theme/blob/main/image/Logo.JPG)
+![](https://github.com/Dilson24/Dark-Red-Theme/blob/main/image/LogoMP2.png)
 
 # README for *Dark-Red-Theme*
 
