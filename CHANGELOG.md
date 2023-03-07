@@ -10,6 +10,6 @@
 ## [0.0.4] - 2023-03-03
 ### Update
 - README.md update for Visual Studio | Marketplace. (UPD [#2](https://github.com/Dilson24/Dark-Red-Theme/blob/main/README.md))
+## [0.0.5] - 2023-03-07
 ### Update
 - Corrected errors in theme colors.
-## [0.0.5] - 2023-03-07
