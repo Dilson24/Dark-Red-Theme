@@ -36,4 +36,4 @@ Color themes let you modify the colors in Visual Studio Code's user interface to
 
 # License
 **Free Software, Hell Yeah!**
-[MIT](https://choosealicense.com/licenses/mit/) © Dilson Alexander Cruz Nivia
+[MIT](https://choosealicense.com/licenses/mit/) © 2021 - Dilson Alexander Cruz Nivia
